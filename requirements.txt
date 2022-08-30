@@ -1,0 +1,10 @@
+streamlit
+typing_extensions
+numpy
+pandas
+scikit-learn
+matplotlib
+japanize-matplotlib
+seaborn
+imblearn
+tensorflow-cpu
